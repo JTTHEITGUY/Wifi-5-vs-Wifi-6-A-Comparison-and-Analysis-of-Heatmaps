@@ -55,7 +55,46 @@ Linksys ac1200 (E5400) Dual-Band Wi-Fi 5 Router
 <h2>The Results</h2> 
 Let's see how the various improvements showcase themselves in this comparison.
 
-**Signal Level:** For the first Wi-Fi 5(ac) vs. Wi-Fi 6(ax) comparison we will start with the Signal level.
+
+
+1. **Signal Level:** WiFi signal level, often measured in decibels relative to a milliwatt (dBm), indicates the strength of the wireless signal received by a device from a WiFi router or access point. -96dBm (min) to -10dBm (max), Critical at -70dBm, acceptable at -40dBm.
+
+WiFi 5: -33dBm is the best-observed signal level. 
+![Optional Image Description](https://i.imgur.com/urIIEe4.jpeg)
+
+WiFi 6: -28dBm is the best-observed signal level showing improvement in signal strength compared to WIFI 5.
+![Optional Image Description](https://i.imgur.com/XAJaS19.jpeg)
+
+
+2. **Signal-to-Noise Ratio (SNR):** The Signal-to-Noise Ratio (SNR) of WiFi is a measure that compares the level of the WiFi signal to the level of background noise, with higher values indicating clearer and better quality signals. 0dB (min) to 86dB (max), Critical at 10dB, acceptable at 30dB.
+
+WiFi 5: A Maximum observed SNR of 58dB.
+![Optional Image Description](https://i.imgur.com/gzjfKo6.jpeg)
+
+WiFi 6: A Maximum observed SNR of 64dB, There is a 12.28% improvement in SNR from WiFi 5 to WiFi 6, indicating better signal clarity and reduced noise.
+
+3. **Download Speed:** 
+WiFi download speed refers to the rate at which data is transferred from the internet to a user's device over a WiFi connection, typically measured in megabits per second (Mbps). 0Mbps (min) to 161Mbps (max), Critical at 1Mbps, acceptable at 10Mbps.
+
+	
+
+
+![Optional Image Description](https://i.imgur.com/B2n66Hx.jpeg)
+WiFi 5: A best-observed download speed of 79.14Mbps.
+
+![Optional Image Description](https://i.imgur.com/eiHWXNb.jpeg)
+WiFi 6: A best-observed download speed of 149.88Mbps. The download speed has improved by 89.38%, which is a significant increase, reflecting the higher efficiency and throughput capabilities of WiFi 6.
+
+4. **Wireless Transmit Rate:** 
+The WiFi Wireless Transmit Rate is the speed at which data can be sent from a wireless router or access point to a connected device, usually measured in megabits per second (Mbps).
+
+![Optional Image Description](https://i.imgur.com/tcSvUuH.jpeg)
+WiFi 5: A maximum observed Wireless Transmit Rate of 866Mbps.
+
+![Optional Image Description](https://i.imgur.com/Z33vGZk.jpeg)
+WiFi 6: A maximum observed Wireless Transmit Rate of 1200Mbps, the wireless transmit rate has improved by 38.57%, indicating a significant increase in the overall data transmission capability of WiFi 6 compared to WiFi 5.
+
+
 
 
 
