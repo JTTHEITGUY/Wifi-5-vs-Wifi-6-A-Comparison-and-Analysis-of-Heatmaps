@@ -53,8 +53,9 @@ Linksys ac1200 (E5400) Dual-Band Wi-Fi 5 Router
 <p>
 
 <h2>The Results</h2> 
+Let's see how the various improvements showcase themselves in this comparison.
 
-Signal Level: For the first Wi-Fi 5(ac) vs. Wi-Fi 6(ax) comparison we will start with Signal level
+**Signal Level:** For the first Wi-Fi 5(ac) vs. Wi-Fi 6(ax) comparison we will start with the Signal level.
 
 
 
