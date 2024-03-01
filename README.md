@@ -57,7 +57,7 @@ Let's see how the various improvements showcase themselves in this comparison.
 
 
 
-1. **Signal Level:** WiFi signal level, often measured in decibels relative to a milliwatt (dBm), indicates the strength of the wireless signal received by a device from a WiFi router or access point. -96dBm (min) to -10dBm (max), Critical at -70dBm, acceptable at -40dBm.
+1. <h2>Signal Level</h2> WiFi signal level, often measured in decibels relative to a milliwatt (dBm), indicates the strength of the wireless signal received by a device from a WiFi router or access point. -96dBm (min) to -10dBm (max), Critical at -70dBm, acceptable at -40dBm.
 
 WiFi 5: -33dBm is the best-observed signal level. 
 ![Optional Image Description](https://i.imgur.com/urIIEe4.jpeg)
@@ -66,18 +66,16 @@ WiFi 6: -28dBm is the best-observed signal level showing improvement in signal s
 ![Optional Image Description](https://i.imgur.com/XAJaS19.jpeg)
 
 
-2. **Signal-to-Noise Ratio (SNR):** The Signal-to-Noise Ratio (SNR) of WiFi is a measure that compares the level of the WiFi signal to the level of background noise, with higher values indicating clearer and better quality signals. 0dB (min) to 86dB (max), Critical at 10dB, acceptable at 30dB.
+2. <h2>Signal-to-Noise Ratio</h2> (SNR):** The Signal-to-Noise Ratio (SNR) of WiFi is a measure that compares the level of the WiFi signal to the level of background noise, with higher values indicating clearer and better quality signals. 0dB (min) to 86dB (max), Critical at 10dB, acceptable at 30dB.
 
 WiFi 5: A Maximum observed SNR of 58dB.
 ![Optional Image Description](https://i.imgur.com/gzjfKo6.jpeg)
 
 WiFi 6: A Maximum observed SNR of 64dB, There is a 12.28% improvement in SNR from WiFi 5 to WiFi 6, indicating better signal clarity and reduced noise.
+![Optional Image Description](https://i.imgur.com/XBmJkHk.jpeg)
 
-3. **Download Speed:** 
+3. <h2>Download Speed</h2>
 WiFi download speed refers to the rate at which data is transferred from the internet to a user's device over a WiFi connection, typically measured in megabits per second (Mbps). 0Mbps (min) to 161Mbps (max), Critical at 1Mbps, acceptable at 10Mbps.
-
-	
-
 
 ![Optional Image Description](https://i.imgur.com/B2n66Hx.jpeg)
 WiFi 5: A best-observed download speed of 79.14Mbps.
@@ -85,7 +83,7 @@ WiFi 5: A best-observed download speed of 79.14Mbps.
 ![Optional Image Description](https://i.imgur.com/eiHWXNb.jpeg)
 WiFi 6: A best-observed download speed of 149.88Mbps. The download speed has improved by 89.38%, which is a significant increase, reflecting the higher efficiency and throughput capabilities of WiFi 6.
 
-4. **Wireless Transmit Rate:** 
+4. <h2>Wireless Transmit Rate</h2>	 
 The WiFi Wireless Transmit Rate is the speed at which data can be sent from a wireless router or access point to a connected device, usually measured in megabits per second (Mbps).
 
 ![Optional Image Description](https://i.imgur.com/tcSvUuH.jpeg)
@@ -95,7 +93,9 @@ WiFi 5: A maximum observed Wireless Transmit Rate of 866Mbps.
 WiFi 6: A maximum observed Wireless Transmit Rate of 1200Mbps, the wireless transmit rate has improved by 38.57%, indicating a significant increase in the overall data transmission capability of WiFi 6 compared to WiFi 5.
 
 
+In conclusion, the comparative analysis between WiFi 5 and WiFi 6 within a single-story environment showcases the clear technological advancements enabled by WiFi 6. The results demonstrate significant enhancements in key metrics such as signal strength, signal-to-noise ratio, and, most notably, download speeds, which have nearly doubled compared to WiFi 5. This improvement is crucial for meeting the increasing demands for higher bandwidth in contemporary smart homes and offices.
 
+However, it is essential to recognize that the actual benefits of upgrading from WiFi 5 to WiFi 6 will vary based on individual environments, use cases, and budgets. Despite these variations, my analysis strongly indicates that WiFi 6 leads to superior network performance and user experience. Therefore, for those evaluating the transition from WiFi 5 to WiFi 6, this data provides compelling evidence of the advantages, especially in terms of efficiency and connectivity. Upgrading to WiFi 6 could be a strategic investment, particularly in settings with intensive data needs, ensuring that your network infrastructure meets current standards and is prepared for future technological demands.
 
 
 
