@@ -35,7 +35,7 @@ The evolution from Wi-Fi 5 (802.11ac) to Wi-Fi 6 (802.11ax) marks a significant 
 
 For the Wi-Fi 5 (ac) and Wi-Fi 6 (ax) comparison, I used my MacBook Pro (14-inch, 2021), which supports 802.11ax Wi-Fi 6 wireless networking. Like all Wi-Fi 6 (ax) devices, it is backward compatible with previous Wi-Fi standards 802.11a/b/g/n/ac. Additionally, I employed a program called NetSpot Wi-Fi Analyzer, which is used for Wi-Fi network planning, wireless site surveys, analysis, and troubleshooting. This software identifies areas of channel interference and dead zones, providing various Wi-Fi metrics such as signal level, download and upload speeds, signal-to-noise ratio, and frequency band coverage. It also aids in troubleshooting by revealing specific issues like low signal levels, overlapping channels, high noise levels, and more. To use the program for Wi-Fi heatmapping, a floor plan of the residence or facility is required so that the heatmap can be superimposed over the existing floor plan. The specific residence used is approximately 2,088 square feet in size for reference.
 
-The floor plan mentioned above ^
+The floor plan mentioned above 
 ![Optional Image Description](https://i.imgur.com/eXmSTas.jpeg)
 
 
@@ -77,22 +77,30 @@ WiFi 6: A Maximum observed SNR of 64dB, There is a 12.28% improvement in SNR fro
 3. <h2>Download Speed</h2>
 WiFi download speed refers to the rate at which data is transferred from the internet to a user's device over a WiFi connection, typically measured in megabits per second (Mbps). 0Mbps (min) to 161Mbps (max), Critical at 1Mbps, acceptable at 10Mbps.
 
-![Optional Image Description](https://i.imgur.com/B2n66Hx.jpeg)
 WiFi 5: A best-observed download speed of 79.14Mbps.
+![Optional Image Description](https://i.imgur.com/B2n66Hx.jpeg)
 
-![Optional Image Description](https://i.imgur.com/eiHWXNb.jpeg)
 WiFi 6: A best-observed download speed of 149.88Mbps. The download speed has improved by 89.38%, which is a significant increase, reflecting the higher efficiency and throughput capabilities of WiFi 6.
+![Optional Image Description](https://i.imgur.com/eiHWXNb.jpeg)
 
 4. <h2>Wireless Transmit Rate</h2>	 
 The WiFi Wireless Transmit Rate is the speed at which data can be sent from a wireless router or access point to a connected device, usually measured in megabits per second (Mbps).
 
-![Optional Image Description](https://i.imgur.com/tcSvUuH.jpeg)
 WiFi 5: A maximum observed Wireless Transmit Rate of 866Mbps.
+![Optional Image Description](https://i.imgur.com/tcSvUuH.jpeg)
 
-![Optional Image Description](https://i.imgur.com/Z33vGZk.jpeg)
+
 WiFi 6: A maximum observed Wireless Transmit Rate of 1200Mbps, the wireless transmit rate has improved by 38.57%, indicating a significant increase in the overall data transmission capability of WiFi 6 compared to WiFi 5.
+![Optional Image Description](https://i.imgur.com/Z33vGZk.jpeg)
+
+</p>
+<br />
+
+<p>
 
 
+</p>
+<p>
 In conclusion, the comparative analysis between WiFi 5 and WiFi 6 within a single-story environment showcases the clear technological advancements enabled by WiFi 6. The results demonstrate significant enhancements in key metrics such as signal strength, signal-to-noise ratio, and, most notably, download speeds, which have nearly doubled compared to WiFi 5. This improvement is crucial for meeting the increasing demands for higher bandwidth in contemporary smart homes and offices.
 
 However, it is essential to recognize that the actual benefits of upgrading from WiFi 5 to WiFi 6 will vary based on individual environments, use cases, and budgets. Despite these variations, my analysis strongly indicates that WiFi 6 leads to superior network performance and user experience. Therefore, for those evaluating the transition from WiFi 5 to WiFi 6, this data provides compelling evidence of the advantages, especially in terms of efficiency and connectivity. Upgrading to WiFi 6 could be a strategic investment, particularly in settings with intensive data needs, ensuring that your network infrastructure meets current standards and is prepared for future technological demands.
