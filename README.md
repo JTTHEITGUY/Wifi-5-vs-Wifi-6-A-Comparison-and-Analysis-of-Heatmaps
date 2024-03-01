@@ -56,8 +56,12 @@ Linksys ac1200 (E5400) Dual-Band Wi-Fi 5 Router
 Let's see how the various improvements showcase themselves in this comparison.
 
 
+ <h2>1. Signal Level</h2> WiFi signal level, often measured in decibels relative to a milliwatt (dBm), indicates the strength of the wireless signal received by a device from a WiFi router or access point. -96dBm (min) to -10dBm (max), Critical at -70dBm, acceptable at -40dBm.
+<p>
 
-1. <h2>Signal Level</h2> WiFi signal level, often measured in decibels relative to a milliwatt (dBm), indicates the strength of the wireless signal received by a device from a WiFi router or access point. -96dBm (min) to -10dBm (max), Critical at -70dBm, acceptable at -40dBm.
+</p>
+<p>
+
 
 WiFi 5: -33dBm is the best-observed signal level. 
 ![Optional Image Description](https://i.imgur.com/urIIEe4.jpeg)
@@ -66,16 +70,24 @@ WiFi 6: -28dBm is the best-observed signal level showing improvement in signal s
 ![Optional Image Description](https://i.imgur.com/XAJaS19.jpeg)
 
 
-2. <h2>Signal-to-Noise Ratio</h2> (SNR):** The Signal-to-Noise Ratio (SNR) of WiFi is a measure that compares the level of the WiFi signal to the level of background noise, with higher values indicating clearer and better quality signals. 0dB (min) to 86dB (max), Critical at 10dB, acceptable at 30dB.
+ <h2>2. Signal-to-Noise Ratio</h2> (SNR): The Signal-to-Noise Ratio (SNR) of WiFi is a measure that compares the level of the WiFi signal to the level of background noise, with higher values indicating clearer and better quality signals. 0dB (min) to 86dB (max), Critical at 10dB, acceptable at 30dB.
+<p>
+
+</p>
+<p>
 
 WiFi 5: A Maximum observed SNR of 58dB.
 ![Optional Image Description](https://i.imgur.com/gzjfKo6.jpeg)
 
-WiFi 6: A Maximum observed SNR of 64dB, There is a 12.28% improvement in SNR from WiFi 5 to WiFi 6, indicating better signal clarity and reduced noise.
+WiFi 6: A Maximum observed SNR of 64dB, there is a 12.28% improvement in SNR from WiFi 5 to WiFi 6, indicating better signal clarity and reduced noise.
 ![Optional Image Description](https://i.imgur.com/XBmJkHk.jpeg)
 
-3. <h2>Download Speed</h2>
+ <h2>3. Download Speed</h2>
 WiFi download speed refers to the rate at which data is transferred from the internet to a user's device over a WiFi connection, typically measured in megabits per second (Mbps). 0Mbps (min) to 161Mbps (max), Critical at 1Mbps, acceptable at 10Mbps.
+<p>
+
+</p>
+<p>
 
 WiFi 5: A best-observed download speed of 79.14Mbps.
 ![Optional Image Description](https://i.imgur.com/B2n66Hx.jpeg)
@@ -83,8 +95,12 @@ WiFi 5: A best-observed download speed of 79.14Mbps.
 WiFi 6: A best-observed download speed of 149.88Mbps. The download speed has improved by 89.38%, which is a significant increase, reflecting the higher efficiency and throughput capabilities of WiFi 6.
 ![Optional Image Description](https://i.imgur.com/eiHWXNb.jpeg)
 
-4. <h2>Wireless Transmit Rate</h2>	 
+ <h2>4. Wireless Transmit Rate</h2>	 
 The WiFi Wireless Transmit Rate is the speed at which data can be sent from a wireless router or access point to a connected device, usually measured in megabits per second (Mbps).
+<p>
+
+</p>
+<p>
 
 WiFi 5: A maximum observed Wireless Transmit Rate of 866Mbps.
 ![Optional Image Description](https://i.imgur.com/tcSvUuH.jpeg)
